@@ -1,7 +1,7 @@
 # challenge-amigo_secreto_romi_alcoba
 # Análisis de Tiendas - Informe para el Sr. Juan
 
-Este proyecto contiene un análisis exhaustivo de cuatro tiendas con el objetivo de recomendar al Sr. Juan cuál de ellas debería vender. Se han evaluado diversos factores clave para cada tienda, incluyendo ingresos totales, ventas por categoría, calificaciones promedio de los clientes, productos más y menos vendidos, y costos de envío promedio.
+Este proyecto contiene un análisis de cuatro tiendas con el objetivo de recomendar al Sr. Juan cuál de ellas debería vender. Se evaluaron diversos factores clave para cada tienda, incluyendo ingresos totales, ventas por categoría, calificaciones promedio de los clientes, productos más y menos vendidos, y costos de envío promedio.
 
 ## Estructura del Proyecto
 
